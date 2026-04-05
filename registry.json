@@ -1,0 +1,64 @@
+{
+  "name": "skill-library",
+  "version": "0.1.0",
+  "description": "Curated collection of AI agent skills for OpenClaw",
+  "author": "Max Hutchinson",
+  "license": "MIT",
+  "repository": "https://github.com/MaxLaurieHutchinson/skill-library",
+  "skills": [
+    {
+      "name": "storyteller",
+      "description": "Narrative construction and fiction writing",
+      "category": "creative-generation",
+      "version": "0.1.0",
+      "repository": "https://github.com/MaxLaurieHutchinson/skill-storyteller",
+      "status": "private-dev",
+      "triggers": ["write a story", "tell a story", "create a narrative", "fiction", "storytelling"]
+    },
+    {
+      "name": "mental-models",
+      "description": "Charlie Munger's latticework thinking for decision-making",
+      "category": "reasoning",
+      "version": "0.1.0",
+      "repository": "https://github.com/MaxLaurieHutchinson/skill-mental-models",
+      "status": "private-dev",
+      "triggers": ["analyze this decision", "what mental model applies", "help me think through this"]
+    },
+    {
+      "name": "academic-search",
+      "description": "Systematic research methodology for academic literature",
+      "category": "information-retrieval",
+      "version": "0.1.0",
+      "repository": "https://github.com/MaxLaurieHutchinson/skill-academic-search",
+      "status": "private-dev",
+      "triggers": ["find papers", "academic search", "research", "literature review", "scholar"]
+    },
+    {
+      "name": "copywriter",
+      "description": "Persuasive writing and conversion optimization",
+      "category": "content-creation",
+      "version": "0.1.0",
+      "repository": "https://github.com/MaxLaurieHutchinson/skill-copywriter",
+      "status": "private-dev",
+      "triggers": ["write copy", "marketing copy", "sales copy", "persuasive writing"]
+    },
+    {
+      "name": "content-engine",
+      "description": "Strategic content creation and editorial workflows",
+      "category": "content-strategy",
+      "version": "0.1.0",
+      "repository": "https://github.com/MaxLaurieHutchinson/skill-content-engine",
+      "status": "private-dev",
+      "triggers": ["content strategy", "editorial calendar", "content plan", "content marketing"]
+    },
+    {
+      "name": "code-gen",
+      "description": "Code generation and software design patterns",
+      "category": "software-engineering",
+      "version": "0.1.0",
+      "repository": "https://github.com/MaxLaurieHutchinson/skill-code-gen",
+      "status": "private-dev",
+      "triggers": ["generate code", "write a function", "create a class", "implement"]
+    }
+  ]
+}
