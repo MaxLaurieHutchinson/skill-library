@@ -59,6 +59,15 @@
       "repository": "https://github.com/MaxLaurieHutchinson/skill-code-gen",
       "status": "private-dev",
       "triggers": ["generate code", "write a function", "create a class", "implement"]
+    },
+    {
+      "name": "local-inference-subagent",
+      "description": "Unified local inference routing for LM Studio, Ollama, OpenAI-compatible, and Anthropic-compatible APIs",
+      "category": "local-inference",
+      "version": "0.1.0",
+      "repository": "https://github.com/MaxLaurieHutchinson/skill-local-inference-subagent",
+      "status": "private-dev",
+      "triggers": ["local inference", "lm studio", "ollama", "run locally", "subagent offload", "on-device model"]
     }
   ]
 }

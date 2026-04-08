@@ -23,6 +23,7 @@ This repository serves as a central registry for skills developed for AI agents.
 | **copywriter** | Persuasive writing and conversion | Private dev | [skill-copywriter](https://github.com/MaxLaurieHutchinson/skill-copywriter) |
 | **content-engine** | Strategic content creation | Private dev | [skill-content-engine](https://github.com/MaxLaurieHutchinson/skill-content-engine) |
 | **code-gen** | Code generation and software design | Private dev | [skill-code-gen](https://github.com/MaxLaurieHutchinson/skill-code-gen) |
+| **local-inference-subagent** | Unified local inference across LM Studio, Ollama, OpenAI-compatible, and Anthropic-compatible APIs | Private dev | [skill-local-inference-subagent](https://github.com/MaxLaurieHutchinson/skill-local-inference-subagent) |
 
 ## Quick Install
 
@@ -56,6 +57,9 @@ git clone https://github.com/MaxLaurieHutchinson/skill-content-engine.git ~/.ope
 
 # Code Gen
 git clone https://github.com/MaxLaurieHutchinson/skill-code-gen.git ~/.openclaw/workspace/skills/code-gen
+
+# Local Inference Subagent
+git clone https://github.com/MaxLaurieHutchinson/skill-local-inference-subagent.git ~/.openclaw/workspace/skills/local-inference-subagent
 ```
 
 ## Skill Format
