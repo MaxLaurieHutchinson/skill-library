@@ -15,6 +15,7 @@ SKILLS=(
     "copywriter"
     "content-engine"
     "code-gen"
+    "local-inference-subagent"
 )
 
 echo "🎯 Installing Skill Library to OpenClaw..."
@@ -50,3 +51,4 @@ echo "Your AI agent can now use these skills. Try asking:"
 echo "  'Help me write a story' (storyteller)"
 echo "  'What mental model applies here?' (mental-models)"
 echo "  'Find papers on...' (academic-search)"
+echo "  'Run this task on local inference with Ollama' (local-inference-subagent)"
