@@ -114,13 +114,13 @@ skill-name/
 
 ## Development Status
 
-All skills are currently in **private development**.
+All skills are currently in **development**.
 
 **Roadmap:**
 - [ ] Internal testing and refinement
 - [ ] Documentation completion
 - [ ] Community review
-- [ ] Public release (future)
+- [ ] Public release 
 
 ## Creating New Skills
 
@@ -172,8 +172,4 @@ These skills were developed based on established frameworks and best practices f
 
 ## Contact
 
-For questions about the skill library, contact: [your email]
-
-## Status
-
-Private development repository — not for public distribution.
+For questions about the skill library, contact: [Max Hutchinson](https://www.linkedin.com/in/maxlauriehutchinson/)
