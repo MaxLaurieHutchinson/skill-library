@@ -16,6 +16,9 @@ SKILLS=(
     "content-engine"
     "code-gen"
     "local-inference-subagent"
+    "design"
+    "lyra"
+    "meta"
 )
 
 echo "🎯 Installing Skill Library to OpenClaw..."

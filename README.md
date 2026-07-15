@@ -24,6 +24,9 @@ This repository serves as a central registry for skills developed for AI agents.
 | **content-engine** | Strategic content creation | Private dev | [skill-content-engine](https://github.com/MaxLaurieHutchinson/skill-content-engine) |
 | **code-gen** | Code generation and software design | Private dev | [skill-code-gen](https://github.com/MaxLaurieHutchinson/skill-code-gen) |
 | **local-inference-subagent** | Unified local inference across LM Studio, Ollama, OpenAI-compatible, and Anthropic-compatible APIs | Private dev | [skill-local-inference-subagent](https://github.com/MaxLaurieHutchinson/skill-local-inference-subagent) |
+| **design** | Traceable engineering design and specification workflow | Private dev | [skill-design](https://github.com/MaxLaurieHutchinson/skill-design) |
+| **lyra** | Improve a prompt after seeing its result | Private dev | [skill-lyra](https://github.com/MaxLaurieHutchinson/skill-lyra) |
+| **meta** | Audit skill use, scope, evidence, and completion | Private dev | [skill-meta](https://github.com/MaxLaurieHutchinson/skill-meta) |
 
 ## Quick Install
 
@@ -60,6 +63,15 @@ git clone https://github.com/MaxLaurieHutchinson/skill-code-gen.git ~/.openclaw/
 
 # Local Inference Subagent
 git clone https://github.com/MaxLaurieHutchinson/skill-local-inference-subagent.git ~/.openclaw/workspace/skills/local-inference-subagent
+
+# Design
+git clone https://github.com/MaxLaurieHutchinson/skill-design.git ~/.openclaw/workspace/skills/design
+
+# Lyra
+git clone https://github.com/MaxLaurieHutchinson/skill-lyra.git ~/.openclaw/workspace/skills/lyra
+
+# Meta
+git clone https://github.com/MaxLaurieHutchinson/skill-meta.git ~/.openclaw/workspace/skills/meta
 ```
 
 ## Skill Format

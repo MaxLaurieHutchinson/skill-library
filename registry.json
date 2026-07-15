@@ -68,6 +68,33 @@
       "repository": "https://github.com/MaxLaurieHutchinson/skill-local-inference-subagent",
       "status": "private-dev",
       "triggers": ["local inference", "lm studio", "ollama", "run locally", "subagent offload", "on-device model"]
+    },
+    {
+      "name": "design",
+      "description": "Traceable engineering goals, architecture, review, and specification workflow",
+      "category": "software-engineering",
+      "version": "0.2.0",
+      "repository": "https://github.com/MaxLaurieHutchinson/skill-design",
+      "status": "private-dev",
+      "triggers": ["$design", "design: td", "design: poc", "design: simplify", "$design spec"]
+    },
+    {
+      "name": "lyra",
+      "description": "Post-run prompt retrospective that produces a sharper next prompt",
+      "category": "prompt-engineering",
+      "version": "0.1.0",
+      "repository": "https://github.com/MaxLaurieHutchinson/skill-lyra",
+      "status": "private-dev",
+      "triggers": ["$lyra", "lyra review", "improve the previous prompt", "optimize the last prompt"]
+    },
+    {
+      "name": "meta",
+      "description": "Post-run audit of skill use, scope, evidence, and completion",
+      "category": "agent-operations",
+      "version": "0.1.0",
+      "repository": "https://github.com/MaxLaurieHutchinson/skill-meta",
+      "status": "private-dev",
+      "triggers": ["$meta", "meta review", "audit skill use", "review the previous run"]
     }
   ]
 }
