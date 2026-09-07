@@ -68,6 +68,15 @@
       "repository": "https://github.com/MaxLaurieHutchinson/skill-local-inference-subagent",
       "status": "private-dev",
       "triggers": ["local inference", "lm studio", "ollama", "run locally", "subagent offload", "on-device model"]
+    },
+    {
+      "name": "astra-quota-router",
+      "description": "Risk-based model routing that preserves Astra for high-leverage engineering judgement and final acceptance while delegating bounded execution to cheaper tiers.",
+      "category": "agent-orchestration",
+      "version": "0.1.0",
+      "repository": "https://github.com/MaxLaurieHutchinson/skill-astra-quota-router",
+      "status": "public-dev",
+      "triggers": ["conserve Astra", "save Astra quota", "avoid Codex quota exhaustion", "route models", "delegate to Luna", "Astra orchestration"]
     }
   ]
 }
