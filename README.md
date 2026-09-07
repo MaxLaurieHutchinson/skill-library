@@ -24,6 +24,7 @@ This repository serves as a central registry for skills developed for AI agents.
 | **content-engine** | Strategic content creation | Private dev | [skill-content-engine](https://github.com/MaxLaurieHutchinson/skill-content-engine) |
 | **code-gen** | Code generation and software design | Private dev | [skill-code-gen](https://github.com/MaxLaurieHutchinson/skill-code-gen) |
 | **local-inference-subagent** | Unified local inference across LM Studio, Ollama, OpenAI-compatible, and Anthropic-compatible APIs | Private dev | [skill-local-inference-subagent](https://github.com/MaxLaurieHutchinson/skill-local-inference-subagent) |
+| **astra-quota-router** | Risk-based model routing to preserve Astra for high-leverage judgement and final acceptance | Public dev | [skill-astra-quota-router](https://github.com/MaxLaurieHutchinson/skill-astra-quota-router) |
 
 ## Quick Install
 
@@ -60,6 +61,9 @@ git clone https://github.com/MaxLaurieHutchinson/skill-code-gen.git ~/.openclaw/
 
 # Local Inference Subagent
 git clone https://github.com/MaxLaurieHutchinson/skill-local-inference-subagent.git ~/.openclaw/workspace/skills/local-inference-subagent
+
+# Astra Quota Router
+git clone https://github.com/MaxLaurieHutchinson/skill-astra-quota-router.git ~/.openclaw/workspace/skills/astra-quota-router
 ```
 
 ## Skill Format
