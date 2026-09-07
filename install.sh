@@ -16,6 +16,7 @@ SKILLS=(
     "content-engine"
     "code-gen"
     "local-inference-subagent"
+    "astra-quota-router"
 )
 
 echo "🎯 Installing Skill Library to OpenClaw..."
@@ -52,3 +53,4 @@ echo "  'Help me write a story' (storyteller)"
 echo "  'What mental model applies here?' (mental-models)"
 echo "  'Find papers on...' (academic-search)"
 echo "  'Run this task on local inference with Ollama' (local-inference-subagent)"
+echo "  'Conserve Astra and route this task across cheaper models' (astra-quota-router)"
