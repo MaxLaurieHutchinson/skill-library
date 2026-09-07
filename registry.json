@@ -68,6 +68,15 @@
       "repository": "https://github.com/MaxLaurieHutchinson/skill-local-inference-subagent",
       "status": "private-dev",
       "triggers": ["local inference", "lm studio", "ollama", "run locally", "subagent offload", "on-device model"]
+    },
+    {
+      "name": "astra-quota-router",
+      "description": "Route Codex work across Astra and cheaper model tiers so frontier quota is reserved for architecture, hard judgement, and final acceptance.",
+      "category": "agent-orchestration",
+      "version": "0.1.0",
+      "repository": "https://github.com/MaxLaurieHutchinson/skill-library/tree/main/skills/astra-quota-router",
+      "status": "validated",
+      "triggers": ["conserve Astra", "save Astra quota", "avoid Codex quota", "route models", "delegate to Luna", "Astra orchestration"]
     }
   ]
 }
